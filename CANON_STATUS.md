@@ -13,7 +13,7 @@ This project is the local working copy of the public GitHub repository [`annachi
 ## Current state
 
 - `whitepaper.html` and `README.md` have been revised locally with Anna's direction of 23 July 2026.
-- The Surge Trilogy is now canonically a live app at `https://surgetrilogy.app`, with read, listen, and watch formats. The complete protocol experience is priced at US$63.
+- The Surge Trilogy is now canonically a live app at `https://surgetrilogy.app`, with read, listen, and watch formats. Current pricing belongs on the app and is not part of the enduring canon.
 - The Operating System for the Human Soul is live at `https://oshs.online` and remains under active construction.
 - The Structure, The Shadow, and The Human and Machine are now the three connected territories of Anna's work. They shape her speech, writing, tools, experiences, and social media and are the primary entryways into her world.
 - The README retains the published works and ASIN links, the forthcoming works `(Don't) Follow That Light` and `Fractori`, the definitions of Mythic Intelligence and OSHS, the four-depth access structure, and primary links.
