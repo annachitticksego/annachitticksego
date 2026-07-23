@@ -43,7 +43,7 @@ She builds frameworks that map the architecture beneath human behaviour, desire,
 
 The **Surge Trilogy** is three independent 21-day behavioural recalibration protocols: **Money Surge**, **Body Surge**, and **Love Surge**.
 
-The trilogy is now a live app at [surgetrilogy.app](https://surgetrilogy.app). Each part of the protocol can be **read, listened to, or watched**, allowing people to move through the work in the form that suits them. The complete protocol experience is **US$63**.
+The trilogy is now a live app at [surgetrilogy.app](https://surgetrilogy.app). Each part of the protocol can be **read, listened to, or watched**, allowing people to move through the work in the form that suits them.
 
 Originally written in 2021 and still available globally as books, the protocols guide people through structured behavioural sequences that create change through direct participation.
 
